@@ -9,7 +9,7 @@ rg-dev ={
         location = "East US"
     }
     rg3 = {
-        name     = "rg3" 
+        name     = "adnanhunt" 
         location = "East US"
     }
     

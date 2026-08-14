@@ -12,6 +12,10 @@ rg-dev ={
         name     = "adnanhunt" 
         location = "East US"
     }
+    rg4 = {
+        name     = "PrashanthKalpanath" 
+        location = "East US"
+    }
     
 }
 
